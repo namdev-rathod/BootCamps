@@ -19,6 +19,7 @@
     How to register for this Boot Camp?
 
     - For India :- Gpay/PhonePe
+
       ![UPI](upi-vandana.PNG)
+    
     - For Outside India :- https://topmate.io/namdevrathod/722937
-      
