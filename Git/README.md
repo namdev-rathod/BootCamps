@@ -2,6 +2,7 @@
 > This boot camp will help people to upskill their code management skills with less time and less money.
 
 > **Duration :- 2 hrs**
+
 > **Fees :- Just Rs.199/- only**
 - **Agenda**
     - What is Git?
