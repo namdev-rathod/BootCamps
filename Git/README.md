@@ -12,10 +12,13 @@
     - Git Troubleshootings
     - Git Webhook
     - Difference between Git/GitHub/GitLab
+    - Hands On Practicals
+    - Interview Questions
+    - Q & A
 
     How to register for this Boot Camp?
 
     - For India :- Gpay/PhonePe
-    - ![UPI](upi-vandana.PNG)
-    - For Outside India :- 
-    - Topmate Link 
+      ![UPI](upi-vandana.PNG)
+    - For Outside India :- https://topmate.io/namdevrathod/722937
+      
