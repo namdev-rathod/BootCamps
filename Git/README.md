@@ -15,5 +15,5 @@
 
     How to register for this Boot Camp?
 
-    - For India :- [UPI](Vandana-UPI.jpeg)
+    - For India :- ![UPI](upi-vandana.PNG)
     - For Outside India - Topmate Link 
