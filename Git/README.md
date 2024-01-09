@@ -29,3 +29,5 @@
       ![UPI](upi-vandana.PNG)
     
     - **For Outside India** :- https://topmate.io/namdevrathod/722937
+ 
+## After payment completed send me payment confirmation message on WhatsApp Number +91- 9860755532
