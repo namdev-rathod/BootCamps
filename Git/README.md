@@ -1,8 +1,9 @@
 ## Git BootCamp
 > This boot camp will help people to upskill their code management skills with less time and less money.
 
-> **Duration :- 2 hrs**
-
+> **Duration :- 2 Days (Sat-Sun)**
+> **Time :- 8:00 To 10:00 PM IST**
+> **BootCamp Date:- 13th & 14th Jan 2024**
 > **Fees :- Just Rs.199/- only**
 - **Agenda**
     - What is Git?
